@@ -1,0 +1,25 @@
+# main links
+main:
+
+  - title: "随笔"
+    url: /categories/literary/  #这里要填写相应的文章路径
+  #- title: "文章"
+  #  url: /categories/artical/  #这里要填写相应的文章路径
+  - title: "技术"
+    url:  /categories/technique/  #这里要填写相应的文章路径
+  - title: "读书笔记"
+    url:  /categories/Reading Notes/  #这里要填写相应的文章路径
+  - title: "学术"
+    url: /categories/academic/
+  - title: "问题自答"
+    url:  /categories/questions/  #这里要填写相应的文章路径
+  - title: "Python专栏"
+    url: /categories/python/
+  #- title: "技术"
+  #  url: /2012/
+  #- title: "随笔"
+  #   url:  /2013/
+  #- title: "读书笔记"
+  #   url:  /markdown/
+  #- title: "问题自答"
+  #   url: /2019/
