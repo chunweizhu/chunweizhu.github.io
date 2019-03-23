@@ -14,7 +14,7 @@ main:
   - title: "问题自答"
     url:  /categories/questions/  #这里要填写相应的文章路径
   - title: "Python专栏"
-    url: /categories/python/
+    url: /categories/Python/
   #- title: "技术"
   #  url: /2012/
   #- title: "随笔"
