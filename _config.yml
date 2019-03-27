@@ -114,7 +114,7 @@ analytics:
 # Site Author  这下面是定义侧边栏中的内容！！！
 author:
   name             : "朱春伟" #"Your Name"
-  avatar           : "/assets/images/touxiang.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/tou.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : 君子不器，与水相邀 #"I am an amazing person."
   location         : "江西、南昌" #"Somewhere"
   email            : c_w_zhu@163.com
