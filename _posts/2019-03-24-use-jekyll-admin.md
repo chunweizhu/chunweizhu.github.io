@@ -8,7 +8,8 @@ comments: true
 toc_label: 目录
 categories:
 - technique
-published: ture  #是否在博客网站上展现出来
+# published: ture  #是否在博客网站上展现出来
+published: false
 ---
 
 >**使用**  jekyll admin  时文件命名要以 **md** 结尾
