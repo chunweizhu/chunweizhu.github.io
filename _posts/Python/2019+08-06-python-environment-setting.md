@@ -18,7 +18,7 @@ python : 无法将“python”项识别为 cmdlet、函数、脚本文件或可�
     + FullyQualifiedErrorId : CommandNotFoundException
 ```
 
-![1565153563586](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\1565153563586.png)
+![1565153563586](/assets/images/1565153563586.png)
 
 ## 2. 路径的正确设置(也是python安装时的默认设置)
 
@@ -34,7 +34,7 @@ C:\Users\asus\AppData\Local\Programs\Python\Python35\Scripts\
 																	C:\Users\asus\AppData\Local\Programs\Python\Python35\
 ```
 
-![1565153321796](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\1565153321796.png)
+![1565153321796](/assets/images/1565153321796.png)
 
 ## 3. CORRECT:
 
@@ -43,7 +43,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 
 
-![1565150656478](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\1565150656478.png)
+![1565150656478](/assets/images/1565150656478.png)
 
 #### 3.1 将上述正确地址(无\Scripts\)添加后的情况(测试添加在系统变量中，不是asus用户变量中)
 
@@ -59,7 +59,7 @@ Python 3.6.8 (tags/v3.6.8:3c6b436a57, Dec 24 2018, 00:16:47) [MSC v.1916 64 bit 
 Type "help", "copyright", "credits" or "license" for more information.
 ```
 
-![1565153858993](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\1565153858993.png)
+![1565153858993](/assets/images/1565153858993.png)
 
 #### 3.2添加在asus用户变量中测试
 
@@ -70,7 +70,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
 
-![1565154821330](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\1565154821330.png)
+![1565154821330](/assets/images/1565154821330.png)
 
 ## 4. 最后恢复原始设置
 
