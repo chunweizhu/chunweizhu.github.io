@@ -1,7 +1,8 @@
 ---
 categories:
   - Python   #注意一定要大写
-published: ture
+published: true
+title: python环境变量设置
 ---
 # python环境变量设置
 
