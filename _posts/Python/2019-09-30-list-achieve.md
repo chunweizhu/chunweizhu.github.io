@@ -1,9 +1,10 @@
-## 链表实现(创建、删除、增加、遍历、输出、计数)
 ---
 categories:
   - Python   #注意一定要大写
-published: false
+published: true
 ---
+
+## 链表实现(创建、删除、增加、遍历、输出、计数)
 
 ```c
 # include<stdio.h>
