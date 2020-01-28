@@ -1,5 +1,5 @@
 ---
-title: 退场
+title: 优雅的思考
 categories:
   - literary
 published: true

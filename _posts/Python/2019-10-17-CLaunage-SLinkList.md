@@ -370,4 +370,5 @@ int main(void)
 }
 ```
 
+
 ![SLinkList](assets\images\SLinkList.jpg)
