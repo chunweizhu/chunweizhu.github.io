@@ -2,7 +2,7 @@
 date: 2019-03-18
 title: 自检清单
 toc: ture   #给文章自动加上目录
-toc_label: "My Table of Contents"
+toc_label: "目录"
 categories:
   - literary
 #toc_icon: "cog"

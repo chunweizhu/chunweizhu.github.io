@@ -2,9 +2,11 @@
 categories:
   - Python   #注意一定要大写
 published: true
+toc: ture   #给文章自动加上目录
+toc_label: "目录"
 title: python环境变量设置
 ---
-# python环境变量设置
+
 
 ## 1. ERROR：未设置环境变量时的错误提示
 
