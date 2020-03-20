@@ -16,8 +16,8 @@ minimal_mistakes_skin    :  "default" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "zh-CN"  #"en-US"该占点网址中网页显示的主要语言，确保date文件下ui-text.yml有相应转化
-title                    : "春伟的闲话" #"Site Title" #标题 大的主页中的标题
-title_separator          : "-"         #此处是用来分隔上一行标题中的字的符号
+title                    : "我的闲话" #"Site Title" #标题 大的主页中的标题
+title_separator          : " "         #此处是用来分隔上一行标题中的字的符号
 name                     : "春伟" #网站名称 作者的名称，你也可以在特定的文章下使用特定的作者 如 name："朱春伟"
 description              : "练习写作、乐意输出"       #"An amazing website." #可以设置，让搜索引擎可以快捷找到你
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" #网站地址
