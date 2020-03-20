@@ -11,7 +11,6 @@ categories:
 published: true
 ---
 
-自检清单
 
 - 孝、简、俭
 
@@ -48,6 +47,9 @@ published: true
 - 稳重，底线思维，准备遇见挫折
 
 - 最好的制度来自于信任而不是规则
+
+
+
 
 
 
