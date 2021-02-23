@@ -7,7 +7,7 @@ categories:
   - literary
 #toc_icon: "cog"
 
-layout: single
+layout: default
 published: true
 ---
 
