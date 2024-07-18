@@ -8,7 +8,7 @@ categories:
 #toc_icon: "cog"
 
 #layout: single
-published: true
+published: false
 ---
 ### 当我们在讨论 `原理` 一词时我们想要传递的是什么意思
 
