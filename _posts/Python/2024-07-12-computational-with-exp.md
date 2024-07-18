@@ -1,7 +1,7 @@
 ---
 categories:
   - Python   #注意一定要大写
-published: true
+published: false
 toc: ture   #给文章自动加上目录
 toc_label: "目录"
 title: 计算与实验
