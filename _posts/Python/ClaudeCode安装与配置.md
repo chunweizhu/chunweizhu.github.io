@@ -1,7 +1,7 @@
 ---
 categories:
   - Python   #注意一定要大写
-published: false
+published: true
 toc: ture   #给文章自动加上目录
 toc_label: "目录"
 title: ClaudeCode CC的安装指南
